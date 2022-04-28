@@ -1,4 +1,4 @@
-<h3>Demo:</h3><a href="netflix-clone-42ec0.firebaseapp.com">Click Here</a> <hr>
+<h3>Demo:</h3><a href="https://netflix-clone-42ec0.firebaseapp.com/">Click Here</a> <hr>
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
